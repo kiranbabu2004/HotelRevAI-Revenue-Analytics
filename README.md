@@ -5,11 +5,16 @@ HotelRevAI is a data analytics project designed to analyze hotel performance usi
 
 It enables hotel management to make data-driven decisions using key performance indicators and visual insights.
 
+
+
 🛠️ Tools & Technologies Used
+
 Power BI
 Microsoft Excel
 DAX (Data Analysis Expressions)
 📊 Dataset Description
+
+
 
 The dataset includes hotel booking and guest-related information such as:
 
@@ -49,10 +54,14 @@ Pricing and demand trends
 
 👉 Helps in maximizing revenue and pricing strategy
 
+
+
 📸 Dashboard Preview
 GM Dashboard
 
 RM Dashboard
+
+
 
 🧩 Data Model (Star Schema)
 
@@ -66,6 +75,8 @@ This improves:
 Query performance
 Data clarity
 Analytical efficiency
+
+
 
 ✅ Conclusion
 
